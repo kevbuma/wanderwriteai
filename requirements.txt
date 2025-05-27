@@ -1,5 +1,0 @@
-streamlit
-openai
-streamlit
-openai>=1.0.0
-fpdf
